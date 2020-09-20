@@ -1,0 +1,9 @@
+React + react Hooks
+React Context API
+Redux Pattern
+// Material UI
+// Flexbox
+// Firebase firestore Realtime Db
+// Firebase Hosting 
+// Firebase Google - AUthntication
+// React Flip Move
