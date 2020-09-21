@@ -1,4 +1,4 @@
-[LIVE DEMO](https://app.netlify.com/sites/inspiring-goodall-430e02/overview)
+[LIVE DEMO](https://inspiring-goodall-430e02.netlify.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
